@@ -33,7 +33,8 @@
 
 <script>
 import _ from 'lodash'
-
+//need to fix the issue with after answering the question the other un-clicked answers could still be click highing the color of the answer, 
+//an idea to fix would be to make a method that handles the checking to see which button was click and add a "disabled" to the once that weren't
 export default {
     // props:["currentQuestion"]
     props:{
