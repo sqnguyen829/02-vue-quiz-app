@@ -1,24 +1,7 @@
 # 02-vue-quiz-app
 
-## Project setup
-```
-npm install
-```
+#used for the shuffling of question the library has many useful methods
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://github.com/lodash/lodash
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://lodash.com/
